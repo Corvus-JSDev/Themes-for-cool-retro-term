@@ -1,7 +1,10 @@
-### These are some custom themes for the cool-retro-term
+## These are some custom themes for the cool-retro-term
 
 **Make sure you have the terminal installed**
+
 Find the terminal repo here: [cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
+
+<br>
 
 **Installing the themes**
 
